@@ -3,6 +3,8 @@ Structured Artificial Neural Networks for Chronological Brain Age Prediction (SI
 Repository for: "Structured Artificial Neural Networks for Chronological Brain Age Prediction using Functional Connectivity Matrices"
 Presented at: SIPAIM 2025 — Pasto, Colombia (19–21 Nov 2025)
 
+EMAIL ME AT: kaue.duarte@ucalgary.ca FOR THE MODEL DOWNLOAD
+
 INTRODUCTION
 ------------
 This work proposes a biologically informed artificial neural network that separates within-network and between-network functional connectivity (FC) information to predict chronological brain age from resting-state fMRI FC matrices. FC matrices were derived using a parcellation and organized by functional networks; the model processes within- and between-network connectivity through dedicated submodels whose outputs are concatenated for age regression. Model interpretability is provided using Grad-CAM-like methods to highlight important connections.
